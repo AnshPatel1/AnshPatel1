@@ -1,4 +1,4 @@
-(![MasterHead]https://i.pinimg.com/originals/4c/b6/bd/4cb6bda5921d9ebc5a275dd22214ea0f.gif)
+![MasterHead](https://i.pinimg.com/originals/4c/b6/bd/4cb6bda5921d9ebc5a275dd22214ea0f.gif)
 <h1 align="center">Hi 👋, I'm Ansh Patel</h1>
 <h3 align="center">A passionate full stack developer, devops supervisor, and ML Engineer.</h3>
 
